@@ -124,23 +124,23 @@ svg {
 }
 
 .bg-darkBlue {
-  color: var(--color-primary-darkBlue);
+  background-color: var(--color-primary-darkBlue);
 }
 
 .bg-brightRed {
-  color: var(--color-primary-brightRed);
+  background-color: var(--color-primary-brightRed);
 }
 .bg-darkGrayishBlue {
-  color: var(--color-neutral-darkGrayishBlue);
+  background-color: var(--color-neutral-darkGrayishBlue);
 }
 .bg-veryDarkBlue {
-  color: var(--color-neutral-veryDarkBlue);
+  background-color: var(--color-neutral-veryDarkBlue);
 }
 .bg-darkBlue {
-  color: var(--color-neutral-veryLightGray);
+  background-color: var(--color-neutral-veryLightGray);
 }
 .bg-veryPaleRed {
-  color: var(--color-neutral-veryPaleRed);
+  background-color: var(--color-neutral-veryPaleRed);
 }
 
 .font-size-300 {
